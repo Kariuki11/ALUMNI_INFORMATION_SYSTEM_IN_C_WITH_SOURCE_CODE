@@ -1,0 +1,68 @@
+C:\Users\ZN_RECORDS\Desktop\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmNew.resources
+C:\Users\ZN_RECORDS\Desktop\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.Properties.Resources.resources
+C:\Users\ZN_RECORDS\Desktop\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.csproj.GenerateResource.Cache
+C:\Users\ZN_RECORDS\Desktop\znnhsalumnidb\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe.config
+C:\Users\ZN_RECORDS\Desktop\znnhsalumnidb\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe
+C:\Users\ZN_RECORDS\Desktop\znnhsalumnidb\znnhsalumnidb\bin\Debug\znnhsalumnidb.pdb
+C:\Users\ZN_RECORDS\Desktop\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.exe
+C:\Users\ZN_RECORDS\Desktop\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.pdb
+C:\Users\ZN_RECORDS\Desktop\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.csprojResolveAssemblyReference.cache
+C:\Users\ZN_RECORDS\Desktop\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmList.resources
+C:\Users\ZN_RECORDS\Desktop\Program\znnhsalumnidb\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe.config
+C:\Users\ZN_RECORDS\Desktop\Program\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.exe
+C:\Users\ZN_RECORDS\Desktop\Program\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.pdb
+C:\Users\ZN_RECORDS\Desktop\Program\znnhsalumnidb\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe
+C:\Users\ZN_RECORDS\Desktop\Program\znnhsalumnidb\znnhsalumnidb\bin\Debug\znnhsalumnidb.pdb
+C:\Users\ZN_RECORDS\Desktop\Program\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.csprojResolveAssemblyReference.cache
+C:\Users\ZN_RECORDS\Desktop\Program\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmList.resources
+C:\Users\ZN_RECORDS\Desktop\Program\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.Properties.Resources.resources
+C:\Users\ZN_RECORDS\Desktop\Program\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.csproj.GenerateResource.Cache
+C:\Users\ZN_RECORDS\Desktop\Program\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmClass.resources
+C:\Users\ZN_RECORDS\Desktop\Program\znnhsalumnidb\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmStudent.resources
+H:\ZNNHS Alumni\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe.config
+H:\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.exe
+H:\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.pdb
+H:\ZNNHS Alumni\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe
+H:\ZNNHS Alumni\znnhsalumnidb\bin\Debug\znnhsalumnidb.pdb
+H:\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.csprojResolveAssemblyReference.cache
+H:\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmList.resources
+H:\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmClass.resources
+H:\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmStudent.resources
+H:\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.Properties.Resources.resources
+H:\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.csproj.GenerateResource.Cache
+C:\Users\Samante\Desktop\ZNNHS Alumni\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe.config
+C:\Users\Samante\Desktop\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.exe
+C:\Users\Samante\Desktop\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.pdb
+C:\Users\Samante\Desktop\ZNNHS Alumni\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe
+C:\Users\Samante\Desktop\ZNNHS Alumni\znnhsalumnidb\bin\Debug\znnhsalumnidb.pdb
+C:\Users\Samante\Desktop\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.csprojResolveAssemblyReference.cache
+C:\Users\Samante\Desktop\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmList.resources
+C:\Users\Samante\Desktop\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmClass.resources
+C:\Users\Samante\Desktop\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmStudent.resources
+C:\Users\Samante\Desktop\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.Properties.Resources.resources
+C:\Users\Samante\Desktop\ZNNHS Alumni\znnhsalumnidb\obj\Debug\znnhsalumnidb.csproj.GenerateResource.Cache
+C:\Users\Samante\Desktop\ZNNHS Alumni Database\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe.config
+C:\Users\Samante\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.exe
+C:\Users\Samante\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.pdb
+C:\Users\Samante\Desktop\ZNNHS Alumni Database\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe
+C:\Users\Samante\Desktop\ZNNHS Alumni Database\znnhsalumnidb\bin\Debug\znnhsalumnidb.pdb
+C:\Users\Samante\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.csprojResolveAssemblyReference.cache
+C:\Users\Samante\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmList.resources
+C:\Users\Samante\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmClass.resources
+C:\Users\Samante\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmStudent.resources
+C:\Users\Samante\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.Properties.Resources.resources
+C:\Users\Samante\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.csproj.GenerateResource.Cache
+C:\Users\ZN_RECORDS\Desktop\ZNNHS Alumni Database\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe.config
+C:\Users\ZN_RECORDS\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.exe
+C:\Users\ZN_RECORDS\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.pdb
+C:\Users\ZN_RECORDS\Desktop\ZNNHS Alumni Database\znnhsalumnidb\bin\Debug\znnhsalumnidb.exe
+C:\Users\ZN_RECORDS\Desktop\ZNNHS Alumni Database\znnhsalumnidb\bin\Debug\znnhsalumnidb.pdb
+C:\Users\ZN_RECORDS\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.csprojResolveAssemblyReference.cache
+C:\Users\ZN_RECORDS\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmList.resources
+C:\Users\ZN_RECORDS\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmClass.resources
+C:\Users\ZN_RECORDS\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.frmStudent.resources
+C:\Users\ZN_RECORDS\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.Properties.Resources.resources
+C:\Users\ZN_RECORDS\Desktop\ZNNHS Alumni Database\znnhsalumnidb\obj\Debug\znnhsalumnidb.csproj.GenerateResource.Cache
+D:\ZNNHS Graduates Database\znnhsgraduatesdb\bin\Debug\znnhsalumnidb.exe.config
+D:\ZNNHS Graduates Database\znnhsgraduatesdb\obj\Debug\znnhsalumnidb.exe
+D:\ZNNHS Graduates Database\znnhsgraduatesdb\obj\Debug\znnhsalumnidb.pdb

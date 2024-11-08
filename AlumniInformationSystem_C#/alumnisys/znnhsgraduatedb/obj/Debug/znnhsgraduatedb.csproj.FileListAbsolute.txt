@@ -1,0 +1,34 @@
+D:\ZNNHS Graduates Database\znnhsgraduatedb\bin\Debug\znnhsalumnidb.exe.config
+D:\ZNNHS Graduates Database\znnhsgraduatedb\bin\Debug\znnhsalumnidb.exe
+D:\ZNNHS Graduates Database\znnhsgraduatedb\bin\Debug\znnhsalumnidb.pdb
+D:\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.frmList.resources
+D:\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.frmClass.resources
+D:\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.frmStudent.resources
+D:\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.Properties.Resources.resources
+D:\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsgraduatedb.csproj.GenerateResource.Cache
+D:\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.exe
+D:\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.pdb
+D:\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsgraduatedb.csprojResolveAssemblyReference.cache
+E:\John Leo\Projects\Software Development\Completed\C#\ZNNHS Graduates Database\znnhsgraduatedb\bin\Debug\znnhsalumnidb.exe.config
+E:\John Leo\Projects\Software Development\Completed\C#\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.exe
+E:\John Leo\Projects\Software Development\Completed\C#\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.pdb
+E:\John Leo\Projects\Software Development\Completed\C#\ZNNHS Graduates Database\znnhsgraduatedb\bin\Debug\znnhsalumnidb.exe
+E:\John Leo\Projects\Software Development\Completed\C#\ZNNHS Graduates Database\znnhsgraduatedb\bin\Debug\znnhsalumnidb.pdb
+E:\John Leo\Projects\Software Development\Completed\C#\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsgraduatedb.csprojResolveAssemblyReference.cache
+E:\John Leo\Projects\Software Development\Completed\C#\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.frmList.resources
+E:\John Leo\Projects\Software Development\Completed\C#\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.frmClass.resources
+E:\John Leo\Projects\Software Development\Completed\C#\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.frmStudent.resources
+E:\John Leo\Projects\Software Development\Completed\C#\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsalumnidb.Properties.Resources.resources
+E:\John Leo\Projects\Software Development\Completed\C#\ZNNHS Graduates Database\znnhsgraduatedb\obj\Debug\znnhsgraduatedb.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\bin\Debug\znnhsalumnidb.exe.config
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\bin\Debug\znnhsalumnidb.exe
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\bin\Debug\znnhsalumnidb.pdb
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\obj\Debug\znnhsgraduatedb.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\obj\Debug\znnhsalumnidb.frmList.resources
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\obj\Debug\znnhsalumnidb.frmClass.resources
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\obj\Debug\znnhsalumnidb.frmStudent.resources
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\obj\Debug\znnhsalumnidb.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\obj\Debug\znnhsgraduatedb.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\obj\Debug\znnhsgraduatedb.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\obj\Debug\znnhsalumnidb.exe
+F:\Sem.4\C# Projects\Trials\alumnisys\znnhsgraduatedb\obj\Debug\znnhsalumnidb.pdb
